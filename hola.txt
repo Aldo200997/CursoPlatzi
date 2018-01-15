@@ -1,2 +1,5 @@
 Hola mi nombre es Aldair
 Tengo 20 años y soy developer
+Estudio
+En
+Platzi
